@@ -1,5 +1,5 @@
 <?php 
-$koneksi = mysqli_connect("localhost", "root", "", "belajarwithib");
+$koneksi = mysqli_connect("localhost", "root", "", "gatot");
 
 function search_artikel($keyword){
 	global $koneksi;

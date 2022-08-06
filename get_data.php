@@ -1,6 +1,6 @@
 <?php
 require 'function.php';
-$koneksi = mysqli_connect("localhost", "root", "", "belajarwithib");
+$koneksi = mysqli_connect("localhost", "root", "", "gatot");
 
 
 $search = $_POST['search'];
