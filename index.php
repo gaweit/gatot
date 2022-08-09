@@ -24,7 +24,7 @@
           </div>
           <button type="submit" class="btn btn-warning text-white">Cari</button>
         </form> 
-        <p class="text-center mt-2"><img width="10%" src="../img/gatot.png" alt=""></p>
+        <p class="text-center mt-2"><img width="10%" src="./img/gatot.png" alt=""></p>
         <p class="text-center mt-2"><a href="http://gatot.lukman/" target="_blank" style="text-decoration:none;">Gatot Kaca </a></p>
       </div>
     </div>
